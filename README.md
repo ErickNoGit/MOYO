@@ -2,7 +2,7 @@
 
 > Essa é minha primeira página utilizando o Figma, você pode ter detalhes do meu trabalho observando a baixo:
 
-img do projeto
+![screenshot1](screenshot1.png)
 
 ## Objetivos:
 
@@ -19,7 +19,7 @@ img do projeto
 
 > Uma pequena amostra do resultado -->
 
-![Screenshot] (screenshot.png)
+![screenshot2](screenshot2.png)
 
 ## Tópicos adiante:
 
