@@ -1,0 +1,141 @@
+.bgImg {
+  height: 670px;
+  max-width: 1400px;
+  padding: 60px 0;
+  margin: 0 auto;
+  background-image: url('../../img/FundoArvores.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.marginMedia {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 550px;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+.headerWhite {
+  display: block;
+  max-width: 1150px;
+  padding: 1rem 40px;
+  background-color: var(--white-200);
+  border-radius: 4px;
+}
+
+#navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#btnAcessos {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  font-family: var(--roboto);
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
+#btnAcessos li a {
+  display: block;
+  color: var(--black-200);
+}
+
+#btnAcessos li a:hover {
+  text-decoration: underline;
+}
+
+.registrar {
+  display: block;
+  color: var(--white-100) !important;
+  background-color: var(--purple);
+  font-family: var(--reem);
+  padding: 4px 1.45rem !important;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 4px;
+  letter-spacing: 0;
+}
+
+.registrar:hover {
+  background-color: var(--purple-100);
+  text-decoration: none !important;
+}
+
+/* main da marginMedia */
+
+.containerFlex {
+  display: flex;
+  align-items: center;
+}
+
+.conteudoContainer {
+  display: grid;
+  max-width: 610px;
+  text-transform: uppercase;
+  margin: auto auto auto 40px;
+}
+
+.title0 {
+  font-family: var(--poller);
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 57px;
+  letter-spacing: 0.15em;
+  position: relative;
+}
+
+.title0::before {
+  content: '';
+  display: block;
+  width: 5px;
+  height: 5px;
+  background-color: var(--white);
+  position: absolute;
+  border-radius: 50%;
+  left: 280px;
+  top: 137px;
+}
+
+.title0::after {
+  content: '';
+  display: block;
+  width: 280px;
+  height: 1px;
+  background-color: var(--white);
+  margin: 25px 0 25px 0;
+}
+
+.texto0 {
+  font-family: var(--roboto);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 10px;
+  letter-spacing: 0.1em;
+  margin-bottom: 25px;
+  max-width: max-content;
+}
+
+.btnInfo {
+  font-family: var(--reem);
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 24px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  color: var(--white-100);
+  padding: 5px 1.3rem;
+  background-color: var(--purple);
+  border-radius: 4px;
+  max-width: max-content;
+}
+
+.btnInfo:hover {
+  background-color: var(--purple-100);
+}

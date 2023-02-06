@@ -1,0 +1,33 @@
+/* a ordem importa */
+/* ordem padrão css */
+@import url('./assets/css/global/global.css');
+
+@import url('./assets/css/index/intro.css');
+@import url('./assets/css/index/corpo.css');
+
+@import url('./assets/css/index/desenv.css');
+@import url('./assets/css/index/section.css');
+@import url('./assets/css/index/rodape.css');
+
+/* para página carregar mais rápido, limpe css */
+/* limpesa com npm */
+
+/* use no terminal: */
+
+/* 
+  sudo apt install cleancss
+  no diretório raíz MOYO
+  abra o terminal e faça
+
+  cleancss -o style.min.css style.css
+
+  cleamcss para limpeza
+  -o para indicar saída, você também pode usar
+  diretórios especificos
+  style.min.css local de como arquivos deve sair
+  (nome ilustrativo)
+  style.css arquivo de entrada.
+  (nome obrigatório)
+  
+  faça backup antes de usar
+*/
