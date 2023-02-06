@@ -1,0 +1,2 @@
+falta fazer o media query da intro
+iniciar article 
