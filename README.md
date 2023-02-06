@@ -19,7 +19,7 @@ img do projeto
 
 > Uma pequena amostra do resultado -->
 
-![SiteUrso] (SiteUrso.png)
+![Screenshot] (screenshot.png)
 
 ## Tópicos adiante:
 
@@ -33,7 +33,24 @@ img do projeto
 > // VCC - Variáveis de controle de código
 
 ```
+  --white:#E5E5E5;
+  --white-100:#FFFFFF;
+  --white-200:#FFFFFFE5;
 
+  --purple:#6A36FF;
+  --purple-100:#8a5fff;
+  --purple-200:#5122d1;
+  
+  --black:#030208;
+  --black-100:#09080ca2;
+  --black-200:#000000ea;
+
+  --ciano: #005470;
+  --ciano-100: #167fa2;
+  --ciano-200: #004258;
+  
+  --transparent: rgba(255, 255, 255, 0.12);
+  --gradient: linear-gradient(180deg, rgba(0, 139, 185, 0.5) 0.01%, rgba(4, 7, 8, 0.5) 63.02%);
 ```
 
 ### Fontes -->
@@ -41,13 +58,19 @@ img do projeto
 > // VCC - Variáveis de controle de código
 
 ```
-
+  --roboto: 'Roboto';
+  --poller: 'Poller One';
+  --reem: 'Reem Kufi Ink';
 ```
 
 > API Google Fonts =>
 
 ```
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poller+One&family
+  =Reem+Kufi+Ink&family=Roboto:wght@100;300;400;500;700;900&display=swap"
+   rel="stylesheet">
 ```
 
 ### Pastas e Arquivos -->
@@ -60,7 +83,7 @@ img do projeto
 => Para `clonar` esse repositório basta usar o comando abaixo no terminal.
 
 ```
-
+git clone https://github.com/ErickNoGit/MOYO.git
 ```
 
 ### Contribuição -->
