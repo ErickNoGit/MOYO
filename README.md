@@ -1,6 +1,7 @@
 # MOYO-
 
 > Essa é minha primeira página utilizando o Figma,
+
 > você pode ter detalhes do meu trabalho observando a baixo:
 
 ![screenshot1](md/screenshot1.png)
@@ -90,4 +91,3 @@ git clone https://github.com/ErickNoGit/MOYO.git
 ### Contribuição -->
 
 => Caso deseja contribuir de alguma forma, seja para criar novas páginas relacionadas no `figma`, ou dar manutenção no código. Basta clicar no link do meu Perfil e conversar comigo diretamente.
-
