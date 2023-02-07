@@ -1,6 +1,7 @@
 # MOYO-
 
-> Essa é minha primeira página utilizando o Figma, você pode ter detalhes do meu trabalho observando a baixo:
+> Essa é minha primeira página utilizando o Figma,
+> você pode ter detalhes do meu trabalho observando a baixo:
 
 ![screenshot1](md/screenshot1.png)
 
